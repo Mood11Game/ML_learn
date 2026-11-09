@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Datasets & Data dumps
+*.csv
+*.tsv
+*.parquet
+*.feather
+
+# Serialized ML models
+*.joblib
+*.pkl
+*.pickle
+*.onnx
+
+# VS Code
+.vscode/
+
+# macOS system trash & metadata
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Jupyter / IPython
+.ipynb_checkpoints/
